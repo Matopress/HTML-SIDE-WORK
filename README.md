@@ -8,6 +8,7 @@ LESSON 1
 </head>
 <body>
 <h1> Mato Press</h1>
-<b> I am a young and ambitious businessman and entrepreneur; a co-founder of Decision Beyond Ltd and a founding member of Jirani Friends Social Enterprises Ltd. A professional marketer with a kin interest in digital platforms and a seasoned salesman with a rich background in corporate sales.</b>
+<p> I am a young and ambitious businessman and entrepreneur; a co-founder of Decision Beyond Ltd and a founding member of Jirani Friends Social Enterprises Ltd. A professional marketer with a kin interest in digital platforms and a seasoned salesman with a rich background in corporate sales.</p>
+<h3> Thanks for reading.</h3>
 </body>
 </html>
